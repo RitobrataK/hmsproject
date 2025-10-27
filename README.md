@@ -264,9 +264,7 @@ We welcome contributions! Please follow these steps:
 
 ## 🙏 Acknowledgments
 
-- MySQL documentation for database integration
-- Python community for best practices
-- Hospital management domain experts for requirements
+- Thank you to my mentor shibshankar sir to guide me throughout this project
 
 ## 📞 Support
 
